@@ -1,6 +1,6 @@
 (function (window, document) {
     window.appStrings = {
-        "en": {
+        "cs": {
             "app_name": "My Colony",
             "new-game-message": "Veliteli - právě jsme přistáli a jsme připraveni začít novou kolonii. Jak bychom ji měli pojmenovat?",
             "welcome-message": "Vítejte! Právě jste založili novou kolonii jako leník #motherland. Vašim cílem je přeměnit tuto mrtvou planetu v prosperující civilizaci. Pro začátek zvolte svůj Rover a přikažte mu, aby začal těžit. Jakmile nasbíráte alespoň 5 kusů Rudy, zvolte svůj Lander a postavte druhý Rover",
